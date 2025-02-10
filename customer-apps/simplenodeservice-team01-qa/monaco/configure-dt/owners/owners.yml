@@ -8,7 +8,7 @@ configs:
     name: team01
     template: appteam.json
     parameters:
-      descr: Team 01
+      descr: Team 02
       team_id: team01
       development: true
       security: false
@@ -17,7 +17,7 @@ configs:
       lineOfBusiness: false
       slackChannel: somewhere
       slackURL: https://somewhere.slack.com/archives/team01
-      email: team01@dynatrace.training
+      email: team02@dynatrace.training
       addInfoKey: costcode
       addInfoValue: team01
       addInfoUrl: https://example.com/team01
